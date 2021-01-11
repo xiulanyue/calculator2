@@ -1,7 +1,4 @@
 import pytest
-from pythoncode.calculator import Calculator
-from get_datas import get_datas
-
 
 class TestCalc:
     @pytest.mark.run(order=1)
